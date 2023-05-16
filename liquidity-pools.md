@@ -8,6 +8,7 @@ has_children:
 
 # Liquidity Pools
 
+
 Equalizer is an AMM which uses the traditional liquidity pool system to create tradable pairs. The system we have deployed is, in our opinion, an improvement on the uniswap system that uses fees to incentivize these pools. Instead, we use a continuous loop system to utilise tokens tied to the fees to incentivize our system. This system creates an equalized situation which can allow for token utility and growth.
 
 The reason we have selected this model is to empower the use of our token and create a system where people lock the token for the benefits it provides. 
