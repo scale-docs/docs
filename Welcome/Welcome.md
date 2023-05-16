@@ -4,7 +4,7 @@ title: Getting Started
 grand_parent:
 parent:
 has_children: true
-nav_order: 2
+nav_order: 9
 
 ---
 
