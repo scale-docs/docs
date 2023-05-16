@@ -8,17 +8,17 @@ has_children:
 
 # Gauge Voting & Bribes
 
-# Voting
+## Voting
 
 $veEQUAL holders will place their votes once a week on the selection of LP pairings they would like emissions to be distributed to. The pool that you vote at the percentage of your vote will receive 100% of the fees that pool generates. All trading fees accrue in the epoch following the vote snapshot.
 
 Once your vote has been placed, the same rolling vote will carry until the voter changes their vote. Note: To earn bribes from any pool in the epoch, you must re-cast your vote each epoch.
 
-# Bribes
+## Bribes
 
 Bribes are in addition to fees and will be claimable 24-48 hours after the snapshot which occurs at Wednesday 23:59 UTC, the end of each epoch. Any rewards not collected will accrue to future epochs.
 
-# Rewards Explained
+## Rewards Explained
 
 There is 3 types of rewards on offer from the Equalizer protocol:
 
