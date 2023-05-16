@@ -23,5 +23,5 @@ Now, who really cares about a fee of 0.01% if the slippage in the trade is 2% or
 ## Where To Find Us
 - Twitter: [https://twitter.com/Equalizer0x](https://twitter.com/Equalizer0x)
 - Discord: [https://discord.gg/KHnB28MMFH](https://discord.gg/KHnB28MMFH)
-- YouTube: [https://www.youtube.com/channel/UCERDeAyvqf8kEDAcorKJdTA](https://www.youtube.com/channel/UCERDeAyvqf8kEDAcorKJdTA)
+- YouTube: [https://www.youtube.com/@0xequalizer](https://www.youtube.com/@0xequalizer)
 
