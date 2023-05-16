@@ -6,6 +6,8 @@ has_children:
 
 ---
 
+# Tokenomics
+
 ## $EQUAL
 
 The tokens basic liquid form is the $EQUAL token. This token will be used as a liquid transferable token used for emissions and have the ability to be locked into a veNFT.
