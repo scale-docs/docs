@@ -7,10 +7,10 @@ has_children:
 ---
 
 # Legal Disclaimer
+<br>
 
 **LEGAL DISCLAIMER:** The information provided in this document and the corresponding website does not constitute investment advice, financial advice, trading advice, or any other sort of advice and you should not treat any of the website’s content as such. Equalizer does not recommend that any cryptocurrency should be bought, sold, or held by you. Do conduct your own due diligence and consult your financial advisor before making any investment decisions. By purchasing Equalizer Token (EQUAL) or any other project on it's AMM, you agree that you are not purchasing a security or investment and you agree to hold the Equalizer harmless and not liable for any losses or taxes you may incur. You also agree that the Equalizer is presenting the tokens “as is” and is not required to provide any support or services. You should have no expectation of any form from Equalizer and its team. Although Equalizer and all the other tokens operating on our AMM are EXPERIMENTAL tokens for social experiment and not a digital currency, Equalizer strongly recommends that United States persons do not purchase it because the Equalizer cannot ensure compliance with United states regulations. Always make sure that you are in compliance with your local laws and regulations before you make any purchase.
 
-<br>
 <br>
 
 
