@@ -8,21 +8,23 @@ nav_order:
 
 ---
 
-# EQUITY
+# Welcome to EQUITY
 
-EQUITY is a decentralized venue for spot and perpetual trading, characterized by reduced swap costs and zero trading impact on prices. The trading environment is bolstered by an innovative multi-asset pool, which rewards liquidity contributors with fees derived from market-making, swaps, and leverage trading activities.
+Welcome to EQUITY - the frontier of decentralized trading. We're more than just an exchange; we are an innovation hub where spot and perpetual trading thrive without boundaries. Our cutting-edge platform brings together minimal swap fees and zero price impact trading, offering you a seamless and cost-effective trading experience.
 
-Prices are dynamically adjusted using both in-house algorithms and a composite of rates from premier high-volume exchanges.
+Supported by our groundbreaking multi-asset pool, we share the success with our liquidity providers. How? By distributing rewarding fees stemming from three sources: market-making, swaps, and leverage trading.
 
-Equity is an integration to the Equalizer.Exchange system integrating the two together for the benefit of veEQUAL holders
+Experience fluidity like never before with our dynamic pricing mechanism. This advanced feature, backed by sophisticated in-house algorithms and an amalgamation of rates from leading high-volume exchanges, ensures accurate, real-time price information.
 
-## Benefits for Different Stakeholders
+## Benefits That Go Beyond Expectations
 
-### Token Holders
+### For Our Valued Token Holders
+Unleash the power of our unique tokens, veEQUAL and EQUAL. With our innovative system, you stand to reap higher fees, further enhancing your earning potential. As we evolve, so do the benefits for our esteemed token holders. Embrace the EQUITY revolution and let your tokens work harder for you.
+
+### For Our Dedicated Liquidity Providers
+In prvoiding liquity you will inturn receive $EQUITY which is entitled to rewards from our gauge system and fully integrated to our vote escrow model.
+
+### For Our Skilled Traders
+We empower leveraged traders with sophisticated tools, transparent trading environments, and ultra-low latency execution. Here, you can magnify your trading potential while keeping risks at bay, navigating the financial seas with confidence and precision.
 
 
-### Liquidity Providers
-by prvoiding liquity you will inturn recieve $EQUITY which is sta
-
-### Traders
-TBD
