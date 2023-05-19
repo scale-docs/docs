@@ -22,7 +22,7 @@ Experience fluidity like never before with our dynamic pricing mechanism. This a
 Unleash the power of our unique tokens, veEQUAL and EQUAL. With our innovative system, you stand to reap higher fees, further enhancing your earning potential. As we evolve, so do the benefits for our esteemed token holders. Embrace the EQUITY revolution and let your tokens work harder for you.
 
 ### For Our Dedicated Liquidity Providers
-In prvoiding liquity you will inturn receive $EQUITY which is entitled to rewards from our gauge system and fully integrated to our vote escrow model.
+In providing liquidty you will inturn receive $EQUITY which is entitled to rewards from our gauge system and fully integrated to our vote escrow model.
 
 ### For Our Skilled Traders
 We empower leveraged traders with sophisticated tools, transparent trading environments, and ultra-low latency execution. Here, you can magnify your trading potential while keeping risks at bay, navigating the financial seas with confidence and precision.
