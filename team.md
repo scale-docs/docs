@@ -24,3 +24,9 @@ With an ability to take a concept and turn it into a working moving mechanism th
 
 Gorgory has a background in diverse areas of knowledge, with experience in both the corporate world and as an entrepreneur. As he fell through the crypto rabbit hole, he understood the importance of aligned incentives to reach a collectively desired outcome. His analytical mind and communication skills allow him to transmit complex ideas in a simple manner.
 Along with his broad range of experience across DeFi and NFT's, which translates to well thought out scenarios and an invaluable knowledge source for the community.
+
+## Jeff - Creative Manager
+
+Jeff is a multifaceted creative with a rich background spanning from front-end app development to article writing, image editing, and video creation. With a strong passion for DeFi, Jeff made the bold decision to transition into a full-time career at Equalizer, leaving behind his role as a lead developer at a marketing firm
+
+As a long-term participant in the Fantom and Equalizer ecosystem, Jeff has developed a deep understanding of the community and network dynamics. His diverse skillset, unwavering motivation, and keen understanding of the project make him a perfect fit for the team, capable of contributing across various areas as needed. With Jeff’s expertise and dedication, he is poised to play a pivotal role in driving the success of the Equalizer project to new heights.
