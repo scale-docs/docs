@@ -8,11 +8,6 @@ nav_order: 2
 
 ---
 
----
-layout: default
-title: EQUITY Token Information
----
-
 # EQUITY Tokens: Unlock a New Realm of Rewards
 
 Welcome to the universe of EQUITY tokens, where opportunities abound and rewards are limitless. With EQUITY, we present a pair of unique tokens: veEQUAL and EQUAL, tailored to incentivize your EQUITY.
