@@ -1,6 +1,6 @@
 ---
 
-title: Copy This File
+title: EQUITY
 grand_parent:
 parent: Equity
 has_children:
