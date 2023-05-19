@@ -1,6 +1,6 @@
 ---
 
-title: Copy This File
+title: Tokenomics
 grand_parent:
 parent: Equity
 has_children:
