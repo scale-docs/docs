@@ -23,7 +23,7 @@ Discover EQUITY's unparalleled accessibility with our tokens hosted on multiple 
 
 EQUITY - 
 
-Need assistance on how to acquire our tokens? Visit the swap page https://equalizer.exchange/swap on our website for a comprehensive guide.
+Need assistance on how to acquire our tokens? Visit the [swap page](https://equalizer.exchange/swap) on our website for a comprehensive guide.
 
 ## Staking and Rewards
 
