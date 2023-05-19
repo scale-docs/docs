@@ -4,7 +4,7 @@ title: EQUITY Information
 grand_parent:
 parent: Equity
 has_children:
-nav_order:
+nav_order: 3
 
 ---
 
