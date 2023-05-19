@@ -16,7 +16,7 @@ Welcome to the realm of EQUITY tokens, the bedrock of our decentralized liquidit
 
 EQUITY token price for minting and redemption is calculated as: (total value of assets in index including gains and losses of open positions) / (EQUITY supply).
 
-As an EQUITY holder, you're entitled to 70% veEQUAL / 30% EQUAL proportionate to the weekly vote and distribution on equalizer.exchang the platform where weekly minted EQUAL is governed. All fees that are generated through the use of EQUITY liquidity are sent to the Equalizer bribe contract with a 10% allocation to treausury.
+As an EQUITY holder, you're entitled to 70% veEQUAL / 30% EQUAL proportionate to the weekly vote and distribution on equalizer.exchange, the platform where weekly minted EQUAL is governed. All fees that are generated through the use of EQUITY liquidity are sent to the Equalizer bribe contract with a 10% allocation to treausury.
 
 As an EQUITY holder, you contribute to liquidity for leverage trading. This implies that you can profit when leverage traders undergo losses and vice versa. For detailed information about past PnL data, EQUITY price chart, and other stats, check our `statistics page`.
 
