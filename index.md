@@ -1,12 +1,12 @@
 ---
 
-title: Equalizer Exchange
+title: Welcome to Equalizer
 nav_order: 1
 has_children:
 
 ---
 
-# Equalizer Exchange
+# Welcome to Equalizer
 
 ## Introduction
 
