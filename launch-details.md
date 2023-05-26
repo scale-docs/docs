@@ -1,8 +1,9 @@
 ---
 
 title: Launch Details
-nav_order: 2
+nav_order: 
 has_children:
+parent: Welcome to Equalizer
 
 ---
 
