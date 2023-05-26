@@ -10,21 +10,32 @@ nav_order: 1
 
 # Welcome to EQUITY
 
-Welcome to EQUITY - the frontier of decentralized trading. We're more than just an exchange; we are an innovation hub where spot and perpetual trading thrive without boundaries. Our cutting-edge platform brings together minimal swap fees and zero price impact trading, offering you a seamless and cost-effective trading experience.
+Welcome to **Equity** - the new frontier of decentralized trading on Fantom.
 
-Supported by our groundbreaking multi-asset pool, we share the success with our liquidity providers. How? By distributing rewarding fees stemming from three sources: market-making, swaps, and leverage trading.
+We're more than just an exchange ― we are an innovation hub where Spot & Derivative markets thrive without boundaries. Our cutting-edge platform brings together minimal swap fees and zero price impact trading, offering you a seamless and cost-effective trading experience.
+
+Supported by our groundbreaking multi-asset pool, we share the success of Equity with our governors: the **veEQUAL holders**. 
+
+**How?**
+
+By rewarding our veEQUAL NFT holders with the fees stemming from Four Sources:
+- Market-making (Liquidity Provisioning)
+- Spot Trading (Simple Exchange)
+- Flash Loans to Devs (Instant repayments)
+- Derivatives Trading (Perpetual Swaps)
 
 Experience fluidity like never before with our dynamic pricing mechanism. This advanced feature, backed by sophisticated in-house algorithms and an amalgamation of rates from leading high-volume exchanges, ensures accurate, real-time price information.
 
 ## Benefits That Go Beyond Expectations
 
 ### For Our Valued Token Holders
-Unleash the power of our unique tokens, veEQUAL and EQUAL. With our innovative system, you stand to reap higher fees, further enhancing your earning potential. As we evolve, so do the benefits for our esteemed token holders. Embrace the EQUITY revolution and let your tokens work harder for you.
+> Unleash the power of your veEQUAL NFTs. 
+With our innovative system, you stand to reap higher fees, further enhancing your earning potential on top of the Equalizer V2 Fees & Bribes. As we evolve, so do the benefits for our esteemed token holders. Embrace the EQUITY revolution and let your voting NFTs pay you cash each and every week!
 
 ### For Our Dedicated Liquidity Providers
-In providing liquidty you will inturn receive $EQUITY which is entitled to rewards from our gauge system and fully integrated to our vote escrow model.
+In providing liquidty you will inturn receive a dynamic mix of veEQUAL and EQUAL. EQUITY LP tokens can be staked into our Equalizer V2 Gauges similar to how you would stake a LP token on Equalizer V2.
+
+The Rewards APR for EQUITY stakers is way higher than a simple payout of Fees APR as it taps into Equalizer's Core Flywheel to enhance the emissions by using the Fees generated for Bribing the Protocol's governance!
 
 ### For Our Skilled Traders
-We empower leveraged traders with sophisticated tools, transparent trading environments, and ultra-low latency execution. Here, you can magnify your trading potential while keeping risks at bay, navigating the financial seas with confidence and precision.
-
-
+We empower leveraged traders with sophisticated tools, transparent trading environments, and ultra-low latency execution. Here, you can magnify your trading potential while keeping risks at bay, navigating the financial seas with confidence and precision. Equity complements our Equalizer v1 & v2's Constant Product (CPAMM) markets with it's new class of Weightage Driven (WAMM) to enable a new Derivatives market.
