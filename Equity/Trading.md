@@ -56,6 +56,25 @@ With EQUITY, you always have control over your positions. If the token's price c
 
 EQUITY offers competitive pricing with no price impacts for trades. Thus, you can execute large trades exactly at the mark price. Our fee structure is straightforward and transparent - just 0.1% of the position size to open/close a position. 
 
-## Stablecoin Pricing 
+### Execution Fee
 
-EQUITY ensures that your trading
+Opening, closing or modifying a position involves two distinct steps:
+
+1. **Initiating the Transaction:** This is done by the user who sends the initial request to either open, close, adjust collateral, or withdraw from a position.
+
+2. **Transaction Confirmation:** This is managed by 'Keepers' who monitor the blockchain for these requests and execute them.
+
+The 'Execution Fee' represents the cost of the second step and is paid to the blockchain network. This fee is clearly displayed in the confirmation box prior to finalizing the transaction.
+
+### Dealing with Stablecoin Price Fluctuations
+
+In the event that a stablecoin's value diverges from the standard 1 USD:
+
+**Short Positions:** Opening and concluding short positions in such circumstances could lead to an effect on the collateral, tied to a spread between the standard 1 USD and the current Chainlink rate of the stablecoin. For instance, should the stablecoin's value drop to 0.95 USD, initiating a position with 1000 units of the stablecoin would result in a collateral worth 950 USD, considering the 0.95 USD rate. On closing the position, 950 units of the stablecoin, evaluated at 1 USD rate, would be retracted. This method serves to prevent potential 'front-running' issues during price divergence, as collateral is stored in USD value and converted to tokens based on the latest rate.
+
+**Short Position Profits:** Our contracts are designed to ensure complete profit payout for all short positions. Profit is disbursed in the stablecoin at the rate of 1 USD or the current Chainlink rate (whichever is higher).
+
+**Swaps:** When swapping using a stablecoin with a diverged price, a similar spread to the Chainlink rate will be applied.
+
+**Long Positions:** Long positions should remain largely unaffected. However, if there is a swap from a depegged stablecoin into the required collateral for a long position (for example, FTM), a spread may be observed. In such cases, alternative swap platforms can be utilized for the swap execution prior to initiating the long position. If a significant spread is detected, the user interface will provide a warning.
+
