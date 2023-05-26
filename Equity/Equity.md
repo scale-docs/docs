@@ -4,9 +4,9 @@ title: Equity
 grand_parent:
 parent: 
 has_children: true
-nav_order: 1
+nav_order: 6
 
 ---
 
-# **Equity***
+# **Equity**
 > Equalizer's Leverage Trading Desk
