@@ -1,7 +1,7 @@
 ---
 
 title: Team
-nav_order: 3
+nav_order: 5
 has_children:
 
 ---
@@ -13,7 +13,7 @@ In the creation, education and adoption of our protocol, the team is key. We hav
 ## Blake Hooper - Co-Founder - Business Manager
 
 Blake is a proven serial entrepreneur with a long-term exposure and experience of Bitcoin, crypto currency and smart contracts. His involvement in the DEFI space across all areas has given him the broad knowledge and expertise required to deliver a well-balanced Decentralized Exchange.
-Additionally, Blake's background in sales and marketing of software / managed services allows him the business mind and credentials to release a marketable and winning protocol. Also using these skills to grow the community and engagement across all platforms. 
+Additionally, Blake's background in sales and marketing of software / managed services allows him the business mind and credentials to release a marketable and winning protocol. Also using these skills to grow the community and engagement across all platforms.
 
 ## 543 - Lead Developer
 

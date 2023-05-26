@@ -1,7 +1,7 @@
 ---
 
 title: Tokenomics
-nav_order: 4
+nav_order: 3
 has_children:
 
 ---
@@ -18,11 +18,11 @@ $EQUAL can be locked in the form of veEQUAL into an NFT which adopts the vote es
 
 ## No Rebase
 
-Some of you might be familiar with the rebase model that incentivizes early adopters of the SOLIDLY platform. We have decided to completely remove this model as it presents a problem for new entrants, as they find it hard to obtain a fair ownership percentage of fees and voting power later in the evolution of the exchange. 
+Some of you might be familiar with the rebase model that incentivizes early adopters of the SOLIDLY platform. We have decided to completely remove this model as it presents a problem for new entrants, as they find it hard to obtain a fair ownership percentage of fees and voting power later in the evolution of the exchange.
 
 ## veLOCK Period
 
-Our lock period will be a maximum 26 weeks and the percentage of your lock time will be issued to your $veEQUAL. This modifier will give you your voting power and percentage of fees in the pool you select. 
+Our lock period will be a maximum 26 weeks and the percentage of your lock time will be issued to your $veEQUAL. This modifier will give you your voting power and percentage of fees in the pool you select.
 
 ## Token Distribution
 
@@ -42,11 +42,11 @@ The initial token supply will be dispersed as per the chart above.
 The airdrop will be issued in the following way:
 
 * Any wallet address that interacted with a veSOLID contract
-* Any wallet address that staked oxSOLID 
+* Any wallet address that staked oxSOLID
 * Any wallet address that staked vlSEX
 * Any wallet address that interacted with a veVELO contract
 
-Now for the boosted airdrop. 
+Now for the boosted airdrop.
 
 For this exercise any oxSOLID or vlSEX stakers are worth 1 point and an additional point is added for interaction with a veSOLID or veVELO contract (only 1 point each per address). The maximum amount of points per address is 3.
 
