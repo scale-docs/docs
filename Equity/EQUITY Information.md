@@ -30,4 +30,3 @@ To make the most out of your investment:
 
 Ready to mint EQUITY? Key in the amount of EQUITY you want to purchase on `Your Purchase Page`. Once minted, your tokens will need to be staked in the [equalizer gauge](https://equalizer.exchange/liquidity), and you'll start accruing veEQUAL and EQUAL rewards.
 
-To redeem
