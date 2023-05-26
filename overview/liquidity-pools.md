@@ -1,7 +1,9 @@
 ---
 
 title: Liquidity Pools
-nav_order: 6
+grand_parent:
+parent: An overview
+nav_order: 2
 has_children:
 
 ---

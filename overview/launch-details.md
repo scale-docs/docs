@@ -1,9 +1,9 @@
 ---
 
 title: Launch Details
-nav_order: 
+parent: An overview
+nav_order: 1
 has_children:
-parent: Welcome to Equalizer
 
 ---
 
@@ -15,7 +15,7 @@ We are launching our exchange with numerous goals in mind:
 
 * Security
 * Fair Distribution
-* Community 
+* Community
 * Sustainable Structures
 * TVL
 * Low Slippage Trades

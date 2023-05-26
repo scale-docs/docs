@@ -1,7 +1,8 @@
 ---
 
 title: Contract Addresses
-nav_order:
+parent: An overview
+nav_order: 3
 has_children:
 
 ---
