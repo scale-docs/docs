@@ -22,19 +22,19 @@ Bribes are in addition to fees and will be claimable 24-48 hours after the snaps
 
 There is 3 types of rewards on offer from the Equalizer protocol:
 
-## Emissions
+### Emissions
 
 The emissions are reserved for LP providers and are distributed over each epoch based on $veEQUAL votes before the start of the new epoch. The rewards will stream over the epoch available for claiming as they accrue.
 
-## Fees
+### Fees
 
-Fees are generated each time a trade is completed on the exchange. These fees are then streamed back to the gauge voters in their proportionate share of the vote. You can claim these rewards as they accrue for your selected pair/s. 
+Fees are generated each time a trade is completed on the exchange. These fees are then streamed back to the gauge voters in their proportionate share of the vote. You can claim these rewards as they accrue for your selected pair/s.
 
-## Bribes
+### Bribes
 
-Lastly bribes are an additional opportunity for anyone holding $veEQUAL. Bribes are potentially allocated to a gauge to incentivize voters to vote for that pair. 
+Lastly bribes are an additional opportunity for anyone holding $veEQUAL. Bribes are potentially allocated to a gauge to incentivize voters to vote for that pair.
 
 The bribes accrue and are only available for claim after the Wednesday 23:59 UTC snapshot is taken. They are proportionate to your voting power cast to the relevant gauge.
 
 ![image](https://github.com/equalizer-docs/equalizer-docs.github.io/assets/100238995/fb9e6d5e-ce1d-4baa-b2ec-a7dbdd6136af)
-<p align="center"> Example of our flywheel in a simple format </p>
+<p align="center"><i>Example of our flywheel in a simple format</i></p>
