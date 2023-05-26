@@ -8,6 +8,8 @@ nav_order: 5
 
 ---
 
+At **EQUITY**, we emphasize transparency and trust. Below is a list of our important smart contracts, meticulously written to ensure the security of your transactions. These contracts power various elements of our decentralized exchange, from vaults, routers, to reward systems. It's essential to understand that interacting with these contracts should be done with utmost care. In case of any doubts or questions, don't hesitate to contact our support team.
+
 - **Vault:** `0x9e4105F9E2284532474f69e65680e440F4C91cb8`
 - **EQUITY:** `0x8B3E5eFaA3eA8e875112c6464218c28Db8F0b4d9`
 - **ShortsTracker:** `0xe8ca91bAe8AA0E9229F6E78f8976B837134b60E8`
