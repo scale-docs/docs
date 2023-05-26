@@ -27,7 +27,8 @@ Experience fluidity like never before with our dynamic pricing mechanism. This a
 ## Benefits That Go Beyond Expectations
 
 ### For Our Valued Token Holders
-> Unleash the power of your veEQUAL NFTs. 
+> Unleash the power of your veEQUAL NFTs!
+
 With our innovative system, you stand to reap higher fees, further enhancing your earning potential on top of the Equalizer V2 Fees & Bribes. As we evolve, so do the benefits for our esteemed token holders. Embrace the EQUITY revolution and let your voting NFTs pay you cash each and every week!
 
 ### For Our Dedicated Liquidity Providers
