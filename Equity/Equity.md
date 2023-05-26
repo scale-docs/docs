@@ -8,5 +8,5 @@ nav_order: 4
 
 ---
 
-# **Equity**
+# Welcome to Equity
 > Equalizer's Leverage Trading Desk

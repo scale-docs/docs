@@ -1,6 +1,6 @@
 ---
 
-title: An overview
+title: What is Equity?
 grand_parent:
 parent: Equity
 has_children:
@@ -8,18 +8,20 @@ nav_order: 1
 
 ---
 
-> Welcome to **Equity** - the new frontier of decentralized derivatives trading on Fantom.
+# What is Equity?
+> The new frontier of decentralized derivatives trading on Fantom.
 
-We're more than just an exchange ― we are an innovation hub where Spot & Derivative markets thrive without boundaries. Our cutting-edge platform brings together minimal swap fees and zero price impact trading, offering you a seamless and cost-effective trading experience.
+Equity is more than just an exchange ― it is a hub where Spot & Derivative markets thrive without boundaries. Our cutting-edge platform brings together minimal swap fees and zero price impact trading, offering you a seamless and cost-effective trading experience.
 
-Supported by our groundbreaking multi-asset pool, we share the success of Equity with our governors: the **veEQUAL holders**. 
+Supported by our groundbreaking multi-asset pool, we share the success of Equity with our governors:
+> The **veEQUAL holders**.
 
-**How?**
+## How?
 
-By rewarding our veEQUAL NFT holders with the fees stemming from Four Sources:
+Equity rewards our veEQUAL NFT holders with the fees stemming from Four Sources:
 - Market-making (Liquidity Provisioning)
 - Spot Trading (Simple Exchange)
-- Flash Loans to Devs (Instant repayments)
+- Flash Loans (Instant repayments)
 - Derivatives Trading (Perpetual Swaps)
 
 Experience fluidity like never before with our dynamic pricing mechanism. This advanced feature, backed by sophisticated in-house algorithms and an amalgamation of rates from leading high-volume exchanges, ensures accurate real-time price information which drives extremely Capital-Efficient liquidity utilization.
