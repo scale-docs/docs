@@ -1,14 +1,15 @@
 ---
 
-title: Deployed Contract Addresses
-nav_order: 7
+title: Contract Addresses
+nav_order:
 has_children:
 
 ---
 
 # Deployed Contract Addresses
 
-Below is a list of our deployed contract addresses. Only trust addresses that are labelled in our docs.
+Below is a list of our deployed contract addresses for Equalizer v1 & v2.
+
 
 Contract Name  | Contract Address  | Status
 ------------- | ------------- | -------------
@@ -30,3 +31,5 @@ BribeFactory        | [0x5d4589bba42df0c53bbcb7ec59160de64b9d4308](https://ftmsc
 MerkleClaim         | [0x6ef2fa893319db4a06e864d1dee17a90fcc34130](https://ftmscan.com/address/0x6ef2fa893319db4a06e864d1dee17a90fcc34130)    | ⚠ Deprecated
 MasterChef          | [0x93b97347722b8a0d21b0dddf79ae1c85c05041f8](https://ftmscan.com/address/0x93b97347722b8a0d21b0dddf79ae1c85c05041f8)    | ⚠ Deprecated
 EqualizerLibrary    | [0xaec6d3e4d319cdc6553f0379e4ff9001d022bea9](https://ftmscan.com/address/0xaec6d3e4d319cdc6553f0379e4ff9001d022bea9)    | ⚠ Deprecated
+
+### Only trust the addresses labelled in our docs!
