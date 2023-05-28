@@ -14,7 +14,7 @@ nav_order: 3
 Welcome to the realm of EQUITY token, the bedrock of our decentralized liquidity provision system. Delve into the flexibility of an index composed of various assets used for swaps and leveraged trading. Seamlessly mint your EQUITY tokens with any index asset and redeem them into any index asset whenever you desire.
 
 ## Introduction
-The EQUITY token is a "Share" representing the ownershoip of all the assets inside the Vault. It is essentially a Vault reciept denominated in eUSD, an internal, virtual index tracker that represents 1 USD. EQUITY can be freely minted or burned by adding or removing "Index Assets" of the Vault. 
+The EQUITY token is a "Share" representing the ownership of all the assets inside the Vault. It is essentially a Vault reciept denominated in eUSD, an internal, virtual index tracker that represents 1 USD. EQUITY can be freely minted or burned by adding or removing "Index Assets" of the Vault. 
 
 As an EQUITY holder, you contribute to liquidity for leverage trading. This implies that you can profit when leverage traders undergo losses and vice versa. For detailed information about past PnL data, EQUITY price chart, and other stats, check our [statistics page](https://equalizer.exchange).
 
