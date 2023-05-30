@@ -61,4 +61,4 @@ To make the most out of your investment, remember these points:
 ## Rebalancing
 The Market-making Fees mechanism encourages market-makers to rebalance the vault towards its desired Target Weights for all the involved Index Assets. Thus the lacking IAs will be encouraged to be added to the Vault, while the surplus assets will be encouraged to be redeemed.
 
-Advanced traders with Smart contract skills can borrow tokens from Equalizer's CPAMM pools and arbitrage the discrepanc9 in fees on Equity vault to turn a profit.
+Advanced traders with Smart contract skills can borrow tokens from Equalizer's CPAMM pools and arbitrage the discrepancy in fees on Equity vault to turn a profit.
