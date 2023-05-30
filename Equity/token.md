@@ -26,12 +26,13 @@ As more traders lose (historically, 90% lose long-term), the Equity Market-Maker
 The converse is true as well.
 
 ### Formula
-EQUITY token price for minting and redemption is calculated as: ```
-(Total value in eUSD of all assets in the vault, including gains and losses of open positions)
+EQUITY token price for minting and redemption is calculated as:
 
-divided by 
+```(Total value in eUSD of all assets in the vault, including gains and losses of open positions)```
 
-(Total Supply of EQUITY token)```
+```divided by ```
+
+```(Total Supply of EQUITY token)```
 
 eUSD always represents 1 USD, and everything in the vault is denominated in it.
 
