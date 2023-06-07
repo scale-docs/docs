@@ -47,7 +47,7 @@ Based on multiple on-chain price feeds and oracles, the price of all index asset
 ----
 
 ## Rewards for owning EQUITY
-As an EQUITY holder, you're entitled to a mix of EQUAL & veEQUAL (generally 70/30) proportional to the number of your staked EQUITY tokens. The amount of rewards and the Reward Rate is determined by the weekly vote and emission distribution on equalizer.exchange, the platform where weekly minted EQUAL is governed. All fees that are generated through the use of EQUITY liquidity are poured as Bribes to the Equalizer for lobbying a bigger EQUAL emission for the upcoming week.
+As an EQUITY holder, you're entitled to a mix of EQUAL & veEQUAL (generally 70% veEQUAL & 30% EQUAL) proportional to the number of your staked EQUITY tokens. The amount of rewards and the Reward Rate is determined by the weekly vote and emission distribution on equalizer.exchange, the platform where weekly minted EQUAL is governed. All fees that are generated through the use of EQUITY liquidity are poured as Bribes to the Equalizer for lobbying a bigger EQUAL emission for the upcoming week.
 
 ## Market-making Fees
 Each Mint & Redeem has an asscociated fees, charged as a small % of the EQUITY.
