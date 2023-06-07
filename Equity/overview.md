@@ -39,4 +39,4 @@ In providing liquidty you will inturn receive a dynamic mix of veEQUAL and EQUAL
 The Rewards APR for EQUITY stakers is way higher than a simple payout of Fees APR as it taps into Equalizer's Core Flywheel to enhance the emissions by using the Fees generated for Bribing the Protocol's governance!
 
 ### For Our Skilled Traders
-We empower leveraged traders with sophisticated tools, transparent trading environments, and ultra-low latency execution. Here, you can magnify your trading potential while keeping risks at bay, navigating the financial seas with confidence and precision. Equity complements our Equalizer v1 & v2's Constant Product (CPAMM) markets with it's new class of Weightage Driven (WAMM) to enable a new Derivatives market.
+We empower leveraged traders with sophisticated tools, transparent trading environments, and ultra-low latency execution. Here, you can magnify your trading potential while keeping risks at bay, navigating the financial seas with confidence and precision. Equity complements our Equalizer v1 & v2's Constant Product (CPAMM) markets with its new class of Weightage Driven (WAMM) pools to enable a new Derivatives market.
