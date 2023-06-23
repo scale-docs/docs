@@ -86,13 +86,12 @@ Week 4 - 49,253
 
 Week 5 - 49,007
 
-and so on...
+From EPOCH 32 we have increased the decay rate to 2% each week heavily reducing the supply: [Read the medium article](https://medium.com/equalizer-exchange/building-a-sustainable-future-for-equal-with-the-adaption-of-our-emissions-4eae317cd56)
+
 
 From week 104 The decline rate will reset to 0.1%
 
 This will provide a slow & predictable decline in emissions that will last into the next century.
 Remember that no rebase means less complication but a fair opportunity for people to obtain a nice share of the fees dependent on the amount of $veEQUAL, they own at any point of the emission cycle.
-
-![image](https://github.com/equalizer-docs/equalizer-docs.github.io/assets/100238995/91fec013-662d-4a47-bfd7-284d0787fffd)
 
 Also an additional 2% of EQUAL will flow to Treasury Wallet and 1% will flow to WFTM/EQUAL pair each EPOCH.
