@@ -34,7 +34,7 @@ Experience fluidity like never before with our dynamic pricing mechanism. This a
 With our innovative system, you stand to reap higher fees, further enhancing your earning potential on top of the Equalizer V2 Fees & Bribes. As we evolve, so do the benefits for our esteemed token holders. Embrace the EQUITY revolution and let your voting NFTs pay you cash each and every week!
 
 ### For Our Dedicated Liquidity Providers
-In providing liquidty you will inturn receive a dynamic mix of veEQUAL and EQUAL. EQUITY LP tokens can be staked into our Equalizer V2 Gauges similar to how you would stake a LP token on Equalizer V2.
+In providing liquidity you will inturn receive a dynamic mix of veEQUAL and EQUAL. EQUITY LP tokens can be staked into our Equalizer V2 Gauges similar to how you would stake a LP token on Equalizer V2.
 
 The Rewards APR for EQUITY stakers is way higher than a simple payout of Fees APR as it taps into Equalizer's Core Flywheel to enhance the emissions by using the Fees generated for Bribing the Protocol's governance!
 
