@@ -11,10 +11,10 @@ nav_order: 5
 At **EQUITY**, we emphasize transparency and trust. Below is a list of our important smart contracts, meticulously written to ensure the security of your transactions. These contracts power various elements of our decentralized exchange, from vaults, routers, to reward systems. It's essential to understand that interacting with these contracts should be done with utmost care. In case of any doubts or questions, don't hesitate to contact our support team.
 
 
-Smart Contract Address | Name | More Information
+Name | Smart Contract Address | More Information
 ---- | ---- | ----
 Vault            | [0x9e4105F9E2284532474f69e65680e440F4C91cb8](https://ftmscan.com/address/0x9e4105F9E2284532474f69e65680e440F4C91cb8) | Main Vault holding Assets
-EQUITY LP        | [0x8B3E5eFaA3eA8e875112c6464218c28Db8F0b4d9](https://ftmscan.com/address/0x8B3E5eFaA3eA8e875112c6464218c28Db8F0b4d9) | ERaw LP, never held by User
+EQUITY LP        | [0x8B3E5eFaA3eA8e875112c6464218c28Db8F0b4d9](https://ftmscan.com/address/0x8B3E5eFaA3eA8e875112c6464218c28Db8F0b4d9) | Raw LP, never held by User
 EQUITY (EQUITY)  | [0x180da8bd91406dd41f18b6200c53deb553f86180](https://ftmscan.com/address/0x180da8bd91406dd41f18b6200c53deb553f86180) | Tokenized EQUITY Receipt
 Equalizer Gauge  | [0xcc82bff654433c5674945c10ab0808863d4c8c48](https://ftmscan.com/address/0xcc82bff654433c5674945c10ab0808863d4c8c48) | Stake EQUITY, Earn EQUAL
 ShortsTracker    | [0xe8ca91bAe8AA0E9229F6E78f8976B837134b60E8](https://ftmscan.com/address/0xe8ca91bAe8AA0E9229F6E78f8976B837134b60E8) | ShortsTracker
