@@ -1,6 +1,6 @@
 ---
 
-title: Contracts
+title: Vault #1
 grand_parent: Equity
 parent: contracts
 has_children:
