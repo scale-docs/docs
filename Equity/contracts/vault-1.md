@@ -4,7 +4,7 @@ title: Vault #1
 grand_parent: Equity
 parent: contracts
 has_children:
-nav_order: 5
+nav_order:
 
 ---
 
