@@ -1,14 +1,15 @@
 ---
 
 title: Contracts
-grand_parent:
-parent: Equity
+grand_parent: Equity
+parent: contracts
 has_children:
 nav_order: 5
 
 ---
 
-At **EQUITY**, we emphasize transparency and trust. Below is a list of our important smart contracts, meticulously written to ensure the security of your transactions. These contracts power various elements of our decentralized exchange, from vaults, routers, to reward systems. It's essential to understand that interacting with these contracts should be done with utmost care. In case of any doubts or questions, don't hesitate to contact our support team.
+# Vault-1
+> First Equity Pool, containing mc.USDC , mc.ETH & WFTM was released in early June. It was retired soon thereafter following the cascading collapse of the Multichain-AnySwap Cross-chain bridge.
 
 
 Name | Smart Contract Address | More Information
