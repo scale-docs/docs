@@ -1,8 +1,8 @@
 ---
 
-title: Vault #1
+title: Vault 1
 grand_parent: Equity
-parent: contracts
+parent: Contracts
 has_children:
 nav_order:
 
