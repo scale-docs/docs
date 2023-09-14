@@ -1,8 +1,9 @@
 ---
 
 title: Equal
-has_children: false
+grand_parent:
 parent: Brand-Kit
+has_children:
 nav_order: 1
 
 ---
