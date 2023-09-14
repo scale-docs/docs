@@ -2,7 +2,7 @@
 
 title: Equal
 grand_parent:
-parent: Brand-Kit
+parent: Brand Kit
 has_children:
 nav_order: 1
 
