@@ -9,7 +9,7 @@ nav_order: 1
 ---
 
 # Equal
-> equal-equalizer-assets.zip
+You can download the whole pack here: .zip
 <br><br><br><br><br>
 ![EQUAL icon svg](https://raw.githubusercontent.com/equalizer-docs/equalizer-docs.github.io/f3bb54e5f527dad896bc5e87957094e25797a93a/img/Equal%20icon.svg)
 <p align="center"><i>Equal icon in .svg format</i></p>
