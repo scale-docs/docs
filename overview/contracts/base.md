@@ -1,9 +1,9 @@
 ---
 
-title | Base
-parent | Contracts
-grand_parent | An overview
-nav_order | 2
+title : Base
+parent : Contracts
+grand_parent : An overview
+nav_order : 2
 has_children:
 
 ---
