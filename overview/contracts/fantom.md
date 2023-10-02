@@ -1,15 +1,16 @@
 ---
 
 title: Contract Addresses
-parent: An overview
-nav_order: 3
+parent: Contracts
+grand_parent: An overview
+nav_order: 1
 has_children:
 
 ---
 
-# Deployed Contract Addresses
+# Deployed Contract Addresses 
 
-Below is a list of our deployed contract addresses for Equalizer v1 & v2.
+Below is a list of our deployed contract addresses for Equalizer v1 & v2 on Fantom.
 
 
 Contract Name  | Contract Address  | Status
