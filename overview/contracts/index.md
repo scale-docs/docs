@@ -1,8 +1,8 @@
 ---
 
-title: Contracts
+title: Equalizer Contracts
 parent: An overview
-nav_order: 1
+nav_order: 
 has_children: true
 
 ---
