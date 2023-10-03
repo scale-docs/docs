@@ -1,7 +1,7 @@
 ---
 
 title : Base
-parent : Contracts
+parent : Equalizer Contracts
 grand_parent : An overview
 nav_order : 2
 has_children:
