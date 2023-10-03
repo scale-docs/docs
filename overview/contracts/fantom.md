@@ -1,7 +1,7 @@
 ---
 
 title: Fantom
-parent: Contracts
+parent: Equalizer Contracts
 grand_parent: An overview
 nav_order: 1
 has_children:
