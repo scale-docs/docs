@@ -1,6 +1,6 @@
 ---
 
-title: Contract Addresses
+title: Contracts
 parent: An overview
 nav_order: 1
 has_children: true
