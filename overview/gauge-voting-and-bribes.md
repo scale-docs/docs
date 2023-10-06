@@ -3,6 +3,7 @@
 title: Gauge Voting & Bribes
 nav_order: 5
 has_children:
+parent: An overview
 
 ---
 
@@ -12,7 +13,14 @@ has_children:
 
 $veEQUAL holders will place their votes once a week on the selection of LP pairings they would like emissions to be distributed to. The pool that you vote at the percentage of your vote will receive 100% of the fees that pool generates. All trading fees accrue in the epoch following the vote snapshot.
 
-Once your vote has been placed, the same rolling vote will carry until the voter changes their vote. Note: To earn bribes from any pool in the epoch, you must re-cast your vote each epoch.
+Once your vote has been placed, the same rolling vote will carry until the voter changes their vote.
+
+### Voting Strategies
+- Votes ("ve") decay linearly over the 26 weeks of lock.
+- Votes carry over and you dont have to revote, but you will earn quite low rewards if you dont vote manually, as best pools to vote will vary each epoch!
+- To earn maximum bribe & fees rewards from any pool in the epoch, you must max-lock your nft and re-cast your vote each epoch.
+- The earlier you vote in an epoch, the more votes you will have. Voting late in an epoch will subject you to a greater vote decay.
+- Its generally recommended to vote on tuesdays or wednesdays to wait for the best bribe & fee offerings to show up.
 
 ## Bribes
 
