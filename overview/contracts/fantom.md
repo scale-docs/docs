@@ -18,7 +18,8 @@ Contract Name  | Contract Address  | Status
 EQUAL               | [0x3fd3a0c85b70754efc07ac9ac0cbbdce664865a6](https://ftmscan.com/address/0x3fd3a0c85b70754efc07ac9ac0cbbdce664865a6)    | Recommended
 veEQUAL             | [0x8313f3551c4d3984ffbadfb42f780d0c8763ce94](https://ftmscan.com/address/0x8313f3551c4d3984ffbadfb42f780d0c8763ce94)    | Recommended
 PairFactory         | [0xc6366efd0af1d09171fe0ebf32c7943bb310832a](https://ftmscan.com/address/0xc6366efd0af1d09171fe0ebf32c7943bb310832a)    | Recommended
-Router              | [0x2aa07920e4ecb4ea8c801d9dfece63875623b285](https://ftmscan.com/address/0x2aa07920e4ecb4ea8c801d9dfece63875623b285)    | Recommended
+Router (v2)         | [0x2aa07920e4ecb4ea8c801d9dfece63875623b285](https://ftmscan.com/address/0x2aa07920e4ecb4ea8c801d9dfece63875623b285)    | Recommended
+Router (v3)         | [0x33da53f731458d6bc970b0c5fcbb0b3db4aaa470](https://ftmscan.com/address/0x33da53f731458d6bc970b0c5fcbb0b3db4aaa470)    | Recommended
 EqualizerLibrary    | [0x7ba9b16586593a0cae883c9873b114e16f69eb6a](https://ftmscan.com/address/0x7ba9b16586593a0cae883c9873b114e16f69eb6a)    | Recommended
 GaugeFactory        | [0x5b3220cb732245ffe8e26df228ac93feb685c157](https://ftmscan.com/address/0x5b3220cb732245ffe8e26df228ac93feb685c157)    | Recommended
 BribeFactory        | [0x58be1f04029ffdccbd34919fe0118cd207d746b0](https://ftmscan.com/address/0x58be1f04029ffdccbd34919fe0118cd207d746b0)    | Recommended
