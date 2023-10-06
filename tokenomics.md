@@ -3,6 +3,7 @@
 title: Tokenomics
 nav_order: 3
 has_children:
+parent: An overview
 
 ---
 
