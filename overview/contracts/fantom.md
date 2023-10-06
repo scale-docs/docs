@@ -28,7 +28,7 @@ Minter              | [0x85e7f59248d1c52bd635f27518333f75fb80c72d](https://ftmsc
 VeArtProxy          | [0x777928f0b5f9066a14f7317d57e660f1d754cad8](https://ftmscan.com/address/0x777928f0b5f9066a14f7317d57e660f1d754cad8)    | ⚠ Deprecated
 RewardsDistributor  | [0x07378e3B1fC43F7A37630C739a2f29F5b2442e60](https://ftmscan.com/address/0x07378e3B1fC43F7A37630C739a2f29F5b2442e60)    | ⚠ Deprecated
 Voter               | [0x4bebeb8188aef8287f9a7d1e4f01d76cbe060d5b](https://ftmscan.com/address/0x4bebeb8188aef8287f9a7d1e4f01d76cbe060d5b)    | ⚠ Deprecated
-Router              | [0x1a05eb736873485655f29a37def8a0aa87f5a447](https://ftmscan.com/address/0x1a05eb736873485655f29a37def8a0aa87f5a447)    | ⚠ Deprecated
+Router (v1)         | [0x1a05eb736873485655f29a37def8a0aa87f5a447](https://ftmscan.com/address/0x1a05eb736873485655f29a37def8a0aa87f5a447)    | ⚠ Deprecated
 GaugeFactory        | [0xc8be3d680e31187a94b47119c5b2b095ce2be578](https://ftmscan.com/address/0xc8be3d680e31187a94b47119c5b2b095ce2be578)    | ⚠ Deprecated
 BribeFactory        | [0x5d4589bba42df0c53bbcb7ec59160de64b9d4308](https://ftmscan.com/address/0x5d4589bba42df0c53bbcb7ec59160de64b9d4308)    | ⚠ Deprecated
 MerkleClaim         | [0x6ef2fa893319db4a06e864d1dee17a90fcc34130](https://ftmscan.com/address/0x6ef2fa893319db4a06e864d1dee17a90fcc34130)    | ⚠ Deprecated
