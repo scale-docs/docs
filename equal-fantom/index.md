@@ -9,4 +9,4 @@ nav_order: 3
 ---
 
 # EQUAL
-> EQUAL is the governance token used on Equalizer for the Fantom chain.
+> $EQUAL is the governance token used on Equalizer for the Fantom chain.
