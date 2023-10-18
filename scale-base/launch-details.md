@@ -24,7 +24,7 @@ This expansion is a strategic move that aims to generate new revenue opportuniti
 ##  Airdrop Criteria 
 
 
- The Equalizer airdrop was a distribution of SCALE tokens to users who held or interacted with the Equalizer protocol on Fantom. The airdrop was conducted to celebrate the launch of Equalizer on Base Chain and to reward the community for their support.
+ The airdrop was a distribution of SCALE tokens to users who held or interacted with the Equalizer protocol on Fantom. It was conducted to celebrate the launch of Equalizer on Base Chain and to reward the community for their support.
 
 ### Eligibility
 
