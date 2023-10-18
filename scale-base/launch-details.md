@@ -1,6 +1,6 @@
 ---
 
-title : Contracts
+title : Launch Details
 parent : SCALE (Base)
 grand_parent :
 nav_order : 1
