@@ -78,6 +78,6 @@ The airdrop snapshot was taken on UTC: Fri, 08 Sep 2023 15:25:03 GMT,  Fantom Bl
 View more specific information at [Dune Dashboard](https://dune.com/equal/scale-airdrop) 
 
 
-#### Future Interactions and Locks
+### Future Interactions and Rewards
 
 Equalizer set aside a special allocation of 400,000 tokens for future interactions and locks. This allocation is intended to reward users who continue to support the Equalizer protocol on Base Chain.
