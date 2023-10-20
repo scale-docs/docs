@@ -75,11 +75,10 @@ Emissions will start at 400,000 SCALE per week and decline at 2% per week.
 * Week 4–376,476
 * Week 5–368,947
 
-The decay factor will be re-evaluated after every 10 epochs
+The decay factor will be re-evaluated after every 10 epochs. 
 
-From week 104 The decline rate will reset to 0.1%
+From week 104, the decline rate will reset to 0.1%.
 
 This will provide a slow & predictable decline in emissions that will last into the next century.
-Remember that no rebase means less complication but a fair opportunity for people to obtain a nice share of the fees dependent on the amount of $veSCALE they own at any point of the emission cycle.
 
 _This page was last updated on October 20th 2023._
