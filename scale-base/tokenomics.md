@@ -53,7 +53,7 @@ In order to include each and every loyal Equalizer supporter from Fantom, we hav
 
 _*Minimum 1337 points required_
 
-_**For fairness and to prevent gaming of the system, we took a snapshot at the time of releasing our launch details on Medium, on Fri, 08 Sep 2023 15:25:03 GMT,  Fantom Block Height: 67,980,758._
+** For fairness and to prevent gaming of the system, we took a snapshot at the time of releasing our launch details on Medium, on Sep 8th 2023 @ 15:25:03 GMT,  Fantom Block Height: 67,980,758.
 
 Check out our [Dune Dashboard](https://dune.com/equal/scale-airdrop) for complete details about the airdrop.
 
