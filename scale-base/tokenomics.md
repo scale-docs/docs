@@ -44,11 +44,13 @@ The initial token supply will be dispersed as per the chart above.
 To mark our expansion to Base Chain and as a token of appreciation for our loyal community, we’re excited to announce our airdrop distribution.
 For each of your holdings and activities, you’ll earn points as follows:
 
-* veEqual Holders: For every veEqual you possess = 100 points.
-* Liquidity Providers: For every Equal token in the WFTM/EQUAL pool, 1 Equal in LP on Equalizer = 50 points.
-* LPs on Tarot: For our users providing liquidity on WFTM/EQUAL on Tarot, 1 Equal in LP on Tarot = 40 points.
-* Tarot Lenders: 1 Equal lent on Tarot = 5 points.
-* Liquid Equal: For every Equal token in your wallet = 2 points.
+|Activity| Points |
+|--|--|
+| veEqual holders | 100 points per veEqual token |
+| Liquidity Providers on Equalizer | 50 points per Equal token in LP |
+| Liquidity Providers on Tarot | 40 points per Equal token in LP |
+| Tarot Lenders | 5 points per Equal token |
+| Liquid Equal holder | 2 points per Equal token |
 
 _*Minimum 1000 points required_
 
