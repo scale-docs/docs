@@ -62,6 +62,7 @@ Airdrop claim page: [airdrop.equalizer.exchange](https://airdrop.equalizer.excha
 Airdrop claim window will remain available indefinitely.
 
 ### Future interactions & rewards
+<br>
 
 For future **veEQUAL lockers** on FTM, we’ve set aside a special allocation of 400,000 tokens. This is to acknowledge the continued support and commitment of our community, ensuring that future interactions and locks are also considered for reward.
 
