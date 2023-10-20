@@ -41,8 +41,7 @@ The initial token supply will be dispersed as per the chart above.
 
 ## Airdrop Breakdown
 
-To mark our expansion to Base Chain and as a token of appreciation for our loyal community, we’re excited to announce our airdrop distribution.
-For each of your holdings and activities, you’ll earn points as follows:
+In order to include each and every loyal Equalizer supporter from Fantom, we have decided on the following point system:
 
 |Activity| Points |
 |--|--|
@@ -56,11 +55,11 @@ _*Minimum 1337 points required_
 
 _**For fairness and to prevent gaming of the system, we took a snapshot at the time of releasing our launch details on Medium, on Fri, 08 Sep 2023 15:25:03 GMT,  Fantom Block Height: 67,980,758._
 
-Airdrop claim page: [Equalizer website](https://airdrop.equalizer.exchange/)
+Check out our [Dune Dashboard](https://dune.com/equal/scale-airdrop) for complete details about the airdrop.
+
+Airdrop claim page: [airdrop.equalizer.exchange](https://airdrop.equalizer.exchange/)
 
 Airdrop claim window will remain available indefinitely.
-
-View more information on: [Dune Dashboard](https://dune.com/equal/scale-airdrop) 
 
 ### Future interactions & rewards
 
@@ -82,3 +81,5 @@ From week 104 The decline rate will reset to 0.1%
 
 This will provide a slow & predictable decline in emissions that will last into the next century.
 Remember that no rebase means less complication but a fair opportunity for people to obtain a nice share of the fees dependent on the amount of $veSCALE they own at any point of the emission cycle.
+
+_This page was last updated on October 20th 2023._
