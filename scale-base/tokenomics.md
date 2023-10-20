@@ -52,9 +52,13 @@ For each of your holdings and activities, you’ll earn points as follows:
 | Tarot Lenders | 5 points per Equal token |
 | Liquid Equal holder | 2 points per Equal token |
 
-_*Minimum 1000 points required_
+_*Minimum 1337 points required_
 
-_*For fairness and to stop gaming of the system. We took a snapshot at the time of releasing our launch details on Medium, on Fri, 08 Sep 2023 15:25:03 GMT,  Fantom Block Height: 67,980,758._
+_**For fairness and to prevent gaming of the system, we took a snapshot at the time of releasing our launch details on Medium, on Fri, 08 Sep 2023 15:25:03 GMT,  Fantom Block Height: 67,980,758._
+
+Airdrop claim page: [Equalizer website](https://airdrop.equalizer.exchange/)
+
+Airdrop claim window will remain available indefinitely.
 
 View more information on: [Dune Dashboard](https://dune.com/equal/scale-airdrop) 
 
