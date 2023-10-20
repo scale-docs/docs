@@ -54,9 +54,14 @@ For each of your holdings and activities, you’ll earn points as follows:
 
 _*Minimum 1000 points required_
 
-Additionally, for future veEqual lockers, we’ve set aside a special allocation of 400,000 tokens. This is to acknowledge the continued support and commitment of our community, ensuring that future interactions and locks are also considered for reward.
+### Future interactions & rewards
 
-_*For fairness and to stop gaming of the system. We took a snapshot at the time of releasing our launch details on Medium, on September 8th 2023._
+For future **veEqual lockers**, we’ve set aside a special allocation of 400,000 tokens. This is to acknowledge the continued support and commitment of our community, ensuring that future interactions and locks are also considered for reward.
+
+_*For fairness and to stop gaming of the system. We took a snapshot at the time of releasing our launch details on Medium, on September 8th 2023.
+The airdrop snapshot was taken on: Fri, 08 Sep 2023 15:25:03 GMT,  Fantom Block Height: 67,980,758_
+
+View more information on: [Dune Dashboard](https://dune.com/equal/scale-airdrop) 
 
 ## Weekly Emissions
 
