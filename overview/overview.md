@@ -8,9 +8,8 @@ grand_parent:
 
 ---
 
-# Present, past and Future
-Equalizer's v1 started as a Decentralized Exchange with 2 type of pools: Volatile (xy=k) and StableSwap pools (x³y+xy³=k), governed by veEQUAL.
+## The universe of Equalizer
 
-Today, Equalizer offers a rich mix of sophisticated blockchain technologies such Spot & Currency Derivatives on top of its original offerings.
+We have launched in November 2022 on Fantom using $EQUAL as our governance token.
 
-In the coming days, Equalizer will level up it's capital efficiency by using Concentrated Liquidity to supercharge it's present suite of DeFi products.
+In September 2023 we have expanded on the BASE network, deploying a new governance token called $SCALE.
