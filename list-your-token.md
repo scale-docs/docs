@@ -21,10 +21,12 @@ Simply go to the [Create Liquidity Pool](https://equalizer.exchange/liqiudity/cr
 ### Special tokens
 We support all sorts of tokens, be it simple ERC20 or exotic assets with transer-taxes, Rebases, auto-LPs, Reflection, etc.
 
-> Exotic tokens must make the `pairFees` address exempt of any taxes or rebases, or else you might not be able to claim the trade-fee rewards!
-> Exempting the `pairFees` address will not impact the transfer taxes taking place during trades or any other interactions with the liquidity pool and your rebases or taxes will still work as expected. This step only removes the taxes/rebases from the trade-fee portion, not the actual trade volume!
-> Equalizer's Gauges & Bribes are the First DEX to natively support Exotic tokens, and require no special exemptions.
-> Please contact us if you have any more questions!
+> - Exotic tokens must make the `pairFees` address of your pool exempt of any taxes or rebases, or else you might not be able to claim the trade-fee rewards!
+> - You can find it on the liquidity pool's ftmscan page on the 'Read Contract' tab under the **`fees`** heading.
+> - Exempting the `pairFees` address will not impact the transfer taxes taking place during trades or any other interactions with the liquidity pool and your rebases or taxes will still work as expected. This step only removes the taxes/rebases from the trade-fee portion, not the actual trade volume!
+> - Equalizer's Gauges & Bribes are the First DEX to natively support Exotic tokens, and require no special exemptions.
+
+Please contact us if you have any more questions!
 
 ### Trading custom tokens
 Simply enter the address of the token you want to trade on Equalizer at our Swap page. You can save any token's address on the Swap page with our 'Local Assets' feature!
@@ -79,7 +81,7 @@ There are 2 types of whitelistings offered on Equalizer:
 - [x] Eligible for upto 10% of Votes!
 
 
-## Decentralized Listing *(Coming Soon)*
+## Decentralized Listing *(Coming Soon™)*
 
 ### Requirements
 - Tokens applying for a whitelist must be paired against FTM/ETH/Stablecoins or our native tokens, EQUAL or SCALE.
