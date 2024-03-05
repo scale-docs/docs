@@ -36,8 +36,9 @@ MasterChef          | [0x93b97347722b8a0d21b0dddf79ae1c85c05041f8](https://ftmsc
 EqualizerLibrary    | [0xaec6d3e4d319cdc6553f0379e4ff9001d022bea9](https://ftmscan.com/address/0xaec6d3e4d319cdc6553f0379e4ff9001d022bea9)    | ⚠ Deprecated
 
 ### Thick Contracts
+
 Contract Name  | Contract Address
-------------- | ------------- |
+------------- | -------------
 Factory               | [0xE6dA85feb3B4E0d6AEd95c41a125fba859bB9d24](https://ftmscan.com/address/0xE6dA85feb3B4E0d6AEd95c41a125fba859bB9d24)
 Multicall             | [0x4c29682a07c50dD5F6BdF36EB97fb28F5C1681E3](https://ftmscan.com/address/0x4c29682a07c50dD5F6BdF36EB97fb28F5C1681E3)
 Proxy Admin           | [0x687dad08623C88452a5deB3A4482c979fA3F571E](https://ftmscan.com/address/0x687dad08623C88452a5deB3A4482c979fA3F571E)
