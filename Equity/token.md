@@ -11,24 +11,17 @@ nav_order: 3
 # EQUITY: The Liquidity Token of Equity
 > The Key to Unlock Boundless Earnings
 
-Welcome to the realm of EQUITY token, the bedrock of our decentralized liquidity provision system. Delve into the flexibility of an index composed of various assets used for swaps and leveraged trading. Seamlessly mint your EQUITY tokens with any index asset and redeem them into any index asset whenever you desire.
+Welcome to the realm of EQUITY token, the bedrock of our decentralized liquidity provision system. Delve into the flexibility of an index composed of various assets used for swaps. Seamlessly mint your EQUITY tokens with any index asset and redeem them into any index asset whenever you desire.
 
 ## Introduction
 The EQUITY token is a "Share" representing the ownership of all the assets inside the Vault. It is essentially a Vault reciept denominated in eUSD, an internal, virtual index tracker that represents 1 USD. EQUITY can be freely minted or burned by adding or removing "Index Assets" of the Vault. 
 
-As an EQUITY holder, you contribute to liquidity for leverage trading. This implies that you can profit when leverage traders undergo losses and vice versa. For detailed information about past PnL data, EQUITY price chart, and other stats, check our [statistics page](https://equalizer.exchange).
-
 ## Price of EQUITY
-The Vault accrues the net Profit-n-Loss borne by the Equity Market-Makers as a whole, which is translated into the price of EQUITY denominated in eUSD.
-
-As more traders lose (historically, 90% lose long-term), the Equity Market-Makers profit, and the price of EQUITY grows as the value of the index-assets inside the vault goes up while the supply of EQUITY remains fixed. 
-
-The converse is true as well.
 
 ### Formula
 EQUITY token price for minting and redemption is calculated as:
 
-```(Total value in eUSD of all assets in the vault, including gains and losses of open positions)```
+```(Total value in eUSD of all assets in the vault)```
 
 ```divided by ```
 
