@@ -9,7 +9,6 @@ nav_order: 1
 ---
 
 # What is Equity?
-> The new frontier of trading on Fantom.
 
 Our cutting-edge platform brings together minimal swap fees, offering you a seamless and cost-effective trading experience.
 
