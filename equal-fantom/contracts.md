@@ -35,4 +35,18 @@ MerkleClaim         | [0x6ef2fa893319db4a06e864d1dee17a90fcc34130](https://ftmsc
 MasterChef          | [0x93b97347722b8a0d21b0dddf79ae1c85c05041f8](https://ftmscan.com/address/0x93b97347722b8a0d21b0dddf79ae1c85c05041f8)    | ⚠ Deprecated
 EqualizerLibrary    | [0xaec6d3e4d319cdc6553f0379e4ff9001d022bea9](https://ftmscan.com/address/0xaec6d3e4d319cdc6553f0379e4ff9001d022bea9)    | ⚠ Deprecated
 
+### Thick Contracts
+Contract Name  | Contract Address  |
+------------- | ------------- |
+Factory               | [0xE6dA85feb3B4E0d6AEd95c41a125fba859bB9d24](https://ftmscan.com/address/0xE6dA85feb3B4E0d6AEd95c41a125fba859bB9d24)
+Multicall             | [0x4c29682a07c50dD5F6BdF36EB97fb28F5C1681E3](https://ftmscan.com/address/0x4c29682a07c50dD5F6BdF36EB97fb28F5C1681E3)
+Proxy Admin           | [0x687dad08623C88452a5deB3A4482c979fA3F571E](https://ftmscan.com/address/0x687dad08623C88452a5deB3A4482c979fA3F571E)
+Tick Lens             | [0xb80a72281c76464CC0e1FbF2431A897393E0d757](https://ftmscan.com/address/0xb80a72281c76464CC0e1FbF2431A897393E0d757)
+ArtLibrary            | [0x97A7B2f95FDa7181dA16aec3072cD55a58D85073](https://ftmscan.com/address/0x97A7B2f95FDa7181dA16aec3072cD55a58D85073)
+Art                   | [0x6bD73537da943723124C2A50F0f95557f4aCC9A2](https://ftmscan.com/address/0x6bD73537da943723124C2A50F0f95557f4aCC9A2)
+Art Proxy             | [0x4bfb3993733b13bba2376e56f9d7ffaf56e047cf](https://ftmscan.com/address/0x4bfb3993733b13bba2376e56f9d7ffaf56e047cf)
+NFT Manager           | [0x2B52294425a9a229322228de659eDE9D146D7c2f](https://ftmscan.com/address/0x2B52294425a9a229322228de659eDE9D146D7c2f)
+Quoter                | [0xF5B7181877FeAB982A4b49a99E84BB7cBEBEFF98](https://ftmscan.com/address/0xF5B7181877FeAB982A4b49a99E84BB7cBEBEFF98)
+Router                | [0x1F7A12B40bFc8e8561008Bc2ca1FBdc71A36d0e8](https://ftmscan.com/address/0x1F7A12B40bFc8e8561008Bc2ca1FBdc71A36d0e8)
+
 ### Only trust the addresses labelled in our docs!
