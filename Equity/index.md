@@ -9,4 +9,4 @@ nav_order: 5
 ---
 
 # Welcome to Equity
-> Equalizer's Leverage Trading Desk
+> Equalizer's Multi-Asset Pool
