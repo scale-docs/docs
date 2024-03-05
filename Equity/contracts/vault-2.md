@@ -9,7 +9,7 @@ nav_order: 2
 ---
 
 # Vault-2
-> The Second Equity Pool was released in mid July, beginning its Pool with axlUSDC & WFTM only.
+> The Second Equity Pool was released in mid July, beginning its Pool with axlUSDC & WFTM and later introducing lzUSDC.
 
 Contract | On-Chain Address
 ---- | ----
