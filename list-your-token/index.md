@@ -2,7 +2,7 @@
 
 title: List your Tokens
 nav_order: 7
-has_children:
+has_children: true
 
 ---
 
@@ -21,12 +21,9 @@ Simply go to the **Create Liquidity Pool** page to create a Liquidity pool for y
 - [Create Liquidity Pool On Base](https://base.equalizer.exchange/liquidity/create)
 
 ### Special tokens
-We support all sorts of tokens, be it simple ERC20 or exotic assets with transer-taxes, Rebases, auto-LPs, Reflection, etc.
+We support all sorts of tokens, be it simple ERC20 or exotic assets with transer-taxes, Rebases, auto-LPs, Reflection, etc. Follow the guide below:
 
-> - Exotic tokens must make the `pairFees` address of your pool exempt of any taxes or rebases, or else you might not be able to claim the trade-fee rewards!
-> - You can find it on the liquidity pool's ftmscan page on the 'Read Contract' tab under the **`fees`** heading.
-> - Exempting the `pairFees` address will not impact the transfer taxes taking place during trades or any other interactions with the liquidity pool and your rebases or taxes will still work as expected. This step only removes the taxes/rebases from the trade-fee portion, not the actual trade volume!
-> - Equalizer's Gauges & Bribes are the First DEX to natively support Exotic tokens, and require no special exemptions.
+> [Learn how to list special tokens](./fee-on-transfer-tokens)
 
 Please feel free to [contact us](https://docs.equalizer.exchange/#where-to-find-us) if you have more questions!
 
