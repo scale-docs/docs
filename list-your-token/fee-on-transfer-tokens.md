@@ -1,6 +1,6 @@
 ---
 
-title: List Special Tokens on Equalizer
+title: Listing Special Tokens on Equalizer
 nav_order: 7
 has_children:
 parent: List your Tokens
@@ -26,3 +26,16 @@ Exempting the pair `Fees` address will not impact the transfer taxes taking plac
 Equalizer's Gauges & Bribes are the First DEX to natively support Exotic tokens. **Gauges & Bribes Dont require special exemptions.**
 
 But make sure to exempt the pair `Fees` address from any transfer-tax, rebase (positive or negative), Reflection rewards or other special features. If you dont, you wont be able to enjoy all the features of Equalizer!
+
+## Correcting previously generated fees
+In case you had not whitelisted the Fees address, it could have accrued a deficit of tokens. As in, if it ad expected 100 tokens and got only 99, it would think it has 100 but while transferring fees during fees claims, it would encounter an error and revert, since it has just 99 and not 100.
+
+Solution to this is to simply sending it the remaining tokens.
+- First of all, make sure it has been exempted or whitelisted by the Token's team or creator.
+- Check how much of Fees was collected ever since the creation.
+- Now transfer it the amount that might have been charged as a trade fees.
+> If it was sent 500 tokens but received only 450 tokens (10% tax), then you need to send it the 50 tokens Plus some more to account for the taxation during your transfer to it. In this case, you should send it
+> 50 (=10% of 500, the total lifetime fees)
+> + 5 (=10% of 50, the deficit)
+> + 1 (a little bit more)
+> **= 56 tokens**
