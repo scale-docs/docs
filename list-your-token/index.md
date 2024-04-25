@@ -59,7 +59,6 @@ There are 2 types of whitelistings offered on Equalizer:
 
 ### Perks
 - [x] Token's Logo will be added to the Swap Page for easy trading
-- [x] Addition to our official Token List.
 - [x] Access to technical assistance from our Team!
 
 ## Full Listing
