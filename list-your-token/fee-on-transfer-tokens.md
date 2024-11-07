@@ -39,3 +39,39 @@ Solution to this is to simply sending it the remaining tokens.
 > + 5 (=10% of 50, the deficit)
 > + 1 (a little bit more)
 > **= 56 tokens**
+
+# Changes needed to your Token's Smart Contract Code
+Equalizer is not a UniswapV2 fork, and its routers and pairs are slightly different.
+
+you would need to make these small adjustments to your contract if your Token involves deployment to a LP on the DEX during its Constructor() call
+
+the changes required are minimal:
+
+## 1. addLiquidity() function
+in here, we have one additional parameter called `stable` which you must include alongside the token0 and token1 addresses
+
+## 2. swapExact<ETH/Token>For<Tokens/ETH>SupportingFeesOnTransferTokens
+in here, Uniswapv2 forks use the `address[] memory path`.
+in case of Equalizer, you should use `Route[] memory path`, where Route is a `Struct`:
+```
+Struct Route {
+  address from;
+  addresss to;
+  bool stable;
+}
+```
+
+## 3. Token Name and Symbol
+Instead of a public string variable, we recommend making it a constant or a function. dont make it an immutable variable, make it a constant instead, or use a function like
+
+```
+function name() external pure returns(string memory) { return "My Token!"; }
+function symbol() external pure returns(string memory) { return "MYTOKEN"; }
+```
+
+that should be all thats needed.
+
+# MAX SUPPLY LIMIT for Suppported Tokens
+another thing to note is that your token supply should be a max of 36 digits including the decimals. for example EQUAL has 18 decimals and a max supply of 21 million = 18+8 = 24 digits.
+if you want more token supply, then we suggest reducing decimals to 9 or 6 and then you can have a token with 999 999 999 999 999 999 999 999 999 999 max supply with 6 decimal precision (so 30+6=36)
+That is, make `YourToken.totalSupply()` less than solidity's `type(uint224).max` to be safe.
