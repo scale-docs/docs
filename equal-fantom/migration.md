@@ -15,7 +15,7 @@ In response, Equalizer has decided to Hard Fork the current Fantom Opera Equaliz
 - Equalizer on Fantom
 - Equalizer on Sonic
 
-User have the option of choosing to have their assets migrated to the Sonic chain version by taking part in the Nigration process during the migration window in December 2024.
+User have the option of choosing to have their assets migrated to the Sonic chain version by taking part in the Migration process during the migration window in December 2024.
 
 The migration portal can be accessed at the below link:
 # [migration.equalizer.exchange](https://migration.equalizer.exchange)
