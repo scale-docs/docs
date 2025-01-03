@@ -13,8 +13,8 @@ has_children:
 Below is a list of our deployed contract addresses for Equalizer on Sonic:
 
 
-Contract Name  | Contract Address  | Status
-------------- | ------------- | -------------
+Contract Name  | Contract Address
+------------- | -------------
 EQUAL               | [0xddf26b42c1d903de8962d3f79a74a501420d5f19](https://sonicscan.org/address/0xddf26b42c1d903de8962d3f79a74a501420d5f19)
 veEQUAL             | [0x3045119766352fF250b3d45312Bd0973CBF7235a](https://sonicscan.org/address/0x3045119766352fF250b3d45312Bd0973CBF7235a)
 Factory             | [0xDDD9845Ba0D8f38d3045f804f67A1a8B9A528FcC](https://sonicscan.org/address/0xDDD9845Ba0D8f38d3045f804f67A1a8B9A528FcC)
