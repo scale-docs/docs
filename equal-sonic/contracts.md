@@ -27,7 +27,7 @@ Admin               | [0xbF4BFeB838De95d64726d55dfae5295b3DFb4B4B](https://sonic
 
 # Thick Contracts
 
-{: .highlight} Equalizer's Concentrated Liquidity Farms utilize the Protocol-Agnostic Concentrated Liquidity from [Eliteness.Network's Thick AMM](https://ftm.guru/docs/thick)
+{: .highlight } Equalizer's Concentrated Liquidity Farms utilize the Protocol-Agnostic Concentrated Liquidity from [Eliteness.Network's Thick AMM](https://ftm.guru/docs/thick)
 
 ## Thick (v1)
 
