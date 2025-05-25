@@ -37,11 +37,9 @@ EqualizerLibrary    | [0xaec6d3e4d319cdc6553f0379e4ff9001d022bea9](https://ftmsc
 
 # Thick Contracts
 
-# THICK 
-(v1)
+# THICK (v1)
 
-{: .highlight } note
-
+{: .highlight }
 Equalizer's Concentrated Liquidity Farms utilize the Protocol-Agnostic Concentrated Liquidity from [Eliteness.Network's Thick AMM](https://ftm.guru/docs/thick)
 
 Contract Name  | Contract Address
