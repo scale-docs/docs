@@ -3,7 +3,7 @@
 title: Treasury
 nav_order:
 has_children:
-parent: SCALE (Base)
+parent: An overview
 
 ---
 
