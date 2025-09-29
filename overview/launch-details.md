@@ -1,7 +1,7 @@
 ---
 
 title : Launch Details
-parent : SCALE (Base)
+parent :  An overview
 grand_parent :
 nav_order : 1
 has_children:

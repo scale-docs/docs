@@ -1,13 +1,13 @@
 ---
 
-title: Tokenomics
-nav_order: 2
+title: Treasury
+nav_order:
 has_children:
-parent:  An overview
+parent: SCALE (Base)
 
 ---
 
-# Tokenomics
+# Treasury
 
 ## $SCALE
 

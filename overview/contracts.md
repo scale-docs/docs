@@ -1,7 +1,7 @@
 ---
 
 title : Contracts
-parent : SCALE (Base)
+parent :  An overview
 grand_parent :
 nav_order : 3
 has_children:
@@ -10,7 +10,7 @@ has_children:
 
 # Deployed Contract Addresses
 
-Below is a list of our deployed contract addresses for Equalizer v3 on Base.
+Below is a list of our deployed contract addresses for Scale.Farm on Base.
 
 
 | Contract Name            |  Contract Address                          |
