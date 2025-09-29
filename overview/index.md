@@ -1,6 +1,6 @@
 ---
 
-title: SCALE (Base)
+title: SCALE, our token
 grand_parent:
 parent:
 has_children: true
