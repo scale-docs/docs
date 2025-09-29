@@ -6,7 +6,7 @@ has_children:
 
 ---
 
-![](./img/equalizer.png)
+![](https://scale.farm/scale/scale-police-banner.png)
 
 # Welcome to the Equalizer
 
