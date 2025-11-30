@@ -11,7 +11,7 @@ has_children:
 # Liquidity Pools
 
 
-Equalizer is an AMM which uses the traditional liquidity pool system to create tradable pairs. The system we have deployed is, in our opinion, an improvement on the uniswap system that uses fees to incentivize these pools. Instead, we use a continuous loop system to utilise tokens tied to the fees to incentivize our system. This system creates an equalized situation which can allow for token utility and growth.
+Scale.farm is an AMM which uses the traditional liquidity pool system to create tradable pairs. The system we have deployed is, in our opinion, an improvement on the uniswap system that uses fees to incentivize these pools. Instead, we use a continuous loop system to utilise tokens tied to the fees to incentivize our system. This system creates an equalized situation which can allow for token utility and growth.
 
 The reason we have selected this model is to empower the use of our token and create a system where people lock the token for the benefits it provides.
 
@@ -19,17 +19,17 @@ The incentive system will provide a steady loop of incentives to ensure a low sl
 
 ## Fees
 
-In 2022, Equalizer V1 set the fees at a rate of 0.2% per trade for volatile pairs and 0.02% for stable pairs.
+In 2022, Scale.farm V1 set the fees at a rate of 0.2% per trade for volatile pairs and 0.02% for stable pairs.
 
 After many months of observation and testing, in 2023 we moved to a dynamic, "editable fee" structure, which would let us tweak the fee % per pool, with a default fee of 1% for vAMM & 0.04% for sAMM on Fantom.
 
 In 2024, we invented a fully-dynamic fee which enabled us to tweak fees automatically with pinpoint precion and zero offchain latency. This fee structure supports the promotion and retention of liquidity, which is essential for maintaining low slippage trades during various phases of the market.
 
-Most of the AMM's in the market use a similar fee amount to reward Liquidity Providers. From our detailed research, we have found that this fee is necessary to sustain a healthy environment for attracting liquidity. One should not focus only on the fee amount, but the efficiency of the trade that they can complete on the AMM. For this reason, the Equalizer model is the first of its kind to create a sustainable dex that supports the equilibrium required to maintain an effective balance to LP providers and token holders for stable and volatile assets.
+Most of the AMM's in the market use a similar fee amount to reward Liquidity Providers. From our detailed research, we have found that this fee is necessary to sustain a healthy environment for attracting liquidity. One should not focus only on the fee amount, but the efficiency of the trade that they can complete on the AMM. For this reason, the Scale.farm model is the first of its kind to create a sustainable dex that supports the equilibrium required to maintain an effective balance to LP providers and token holders for stable and volatile assets.
 
 ## Types of Pools
 
-Equalizer v1 comes with 2 basic types of liquidity pools
+Scale.farm v1 comes with 2 basic types of liquidity pools
 
 ### Stable Pools
 
@@ -43,24 +43,21 @@ Variable pools are designed for assets with high price volatility. These pools u
 
 x × y = k
 
-## Equalizer v2
-Equalizer v2 is capable of hosting multiple types of liquidity
+## Scale.farm v2
+Scale.farm v2 is capable of hosting multiple types of liquidity
 
-### Derivatives Trading Vault
-Equalizer's v2 also brings in support for Vault receipts of a Derivatives platform, such as the EQUITY token from our [Equity DEX](../Equity/Equity), as well as other partnering Perpetuals Protocols / Orcale-driven AMMs, such as GMX & Woofi like forks, such as Morphex & Equity on Fantom Opera.
-
-## Equalizer v3
+## Scale.farm v3
 
 ### Concentrated Liquidity
-Equalizer v2 can natively support Conentrated Liquidity for staking, voting, trading & market-making. It uses wrappers from AUtomated Liquidity Management Protocols (A.L.M.) that tokenize Concentrated Liquidity into stakeable ERC20 receipts. We support [Thick CL DEX](ftm.guru/docs/thick) & the [E3 DEX](https://ftm.guru/docs/e3).
+Scale.farm v2 can natively support Conentrated Liquidity for staking, voting, trading & market-making. It uses wrappers from AUtomated Liquidity Management Protocols (A.L.M.) that tokenize Concentrated Liquidity into stakeable ERC20 receipts. We support [Thick CL DEX](ftm.guru/docs/thick) & the [E3 DEX](https://ftm.guru/docs/e3).
 
-## Equalizer v4
-Equalizer v4 expands upon the supported types to bring more new types under the roof.
+## Scale.farm v4
+Scale.farm v4 expands upon the supported types to bring more new types under the roof.
 
 ### Lending Markets
-Through [Eliteness Lending Market Aggregator](https://ftm.guru/docs/elma), Equalizer can provide liquidity incentives to Lenders, paid out as EQUAL emissions. In return, the partner protocols send Interest and/or other yield to Equalizer as bribes.
+Through [Eliteness Lending Market Aggregator](https://ftm.guru/docs/elma), Scale.farm can provide liquidity incentives to Lenders, paid out as EQUAL emissions. In return, the partner protocols send Interest and/or other yield to Scale.farm as bribes.
 
-## Equalizer v5
+## Scale.farm v5
 We shift our tagline to being a Liquidity Market, and not merely a dex.
 
 ### Multi-token pools, Stable & MetaStable pools
