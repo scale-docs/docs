@@ -6,39 +6,38 @@ has_children: true
 
 ---
 
-# Launch your Token on Equalizer!
+# Launch your Token on Scale.farm!
 
-Equalizer is a **Community Powered** Decentralized Protocol. We strive to offer to the best tokens to our traders as well as provide earning opportunities to our loyal Liquidity Providers. We understand that the real success in DeFi comes from serving the community with useful features that make their lives better!
+Scale.farm is a **Community Powered** Decentralized Protocol. We strive to offer to the best tokens to our traders as well as provide earning opportunities to our loyal Liquidity Providers. We understand that the real success in DeFi comes from serving the community with useful features that make their lives better!
 
-A big part of this community are the exciting projects that launch their unique tokens on-chain. We welcome all projects to list their Tokens on Equalizer and make the best use of all our amazing features!
+A big part of this community are the exciting projects that launch their unique tokens on-chain. We welcome all projects to list their Tokens on Scale.farm and make the best use of all our amazing features!
 
 ## Getting Listed
-As we offer a Decentralized Protocol, anyone can list their Tokens permissionlessly on Equalizer on their own!
+As we offer a Decentralized Protocol, anyone can list their Tokens permissionlessly on Scale.farm on their own!
 
 ### Creating a new pool
 Simply go to the **Create Liquidity Pool** page to create a Liquidity pool for your token to enable trading for that pair!
-- [Create Liquidity Pool On Fantom](https://equalizer.exchange/liquidity/create)
-- [Create Liquidity Pool On Base](https://base.equalizer.exchange/liquidity/create)
+- [Create Liquidity Pool On Base](https://scale.farm/liquidity/create)
 
 ### Special tokens
 We support all sorts of tokens, be it simple ERC20 or exotic assets with transer-taxes, Rebases, auto-LPs, Reflection, etc. Follow the guide below:
 
 > [Learn how to list special tokens](./fee-on-transfer-tokens)
 
-Please feel free to [contact us](https://docs.equalizer.exchange/#where-to-find-us) if you have more questions!
+Please feel free to [contact us](https://barn.scale.farm/docs/team/) if you have more questions!
 
 ### Trading custom tokens
-Simply enter the address of the token you want to trade on Equalizer at our Swap page. You can save any token's address on the Swap page with our 'Local Assets' feature!
+Simply enter the address of the token you want to trade on Scale.farm on our Swap page. You can save any token's address on the Swap page with our 'Local Assets' feature!
 
 ## Launchpad
-We also provide a tailored launchpad service to upcoming projects that want to launch their tokens on Equalizer directly! Equalizer leverages the SeedR platform to enable custom solutions such as LBPs, TGEs, LGEs, IDOs, IFOs and more!
+We also provide a tailored launchpad service to upcoming projects that want to launch their tokens on Scale.farm directly! Scale.farm leverages the SeedR platform to enable custom solutions such as LBPs, TGEs, LGEs, IDOs, IFOs and more!
 
-- [Open a ticket on Discord](https://discord.gg/KHnB28MMFH) to start your journey with us!
+- [Open a ticket on Discord](https://discord.gg/PqggXcYtYS) to start your journey with us!
 
 ## Whitelisting
 We also offer bespoke services for established projects. Any token that meets the whitelisting guidelines can request it.
 
-There are 2 types of whitelistings offered on Equalizer:
+There are 2 types of whitelistings offered on Scale.farm:
 
 - Soft Listing
 - Full Listing
@@ -49,7 +48,7 @@ There are 2 types of whitelistings offered on Equalizer:
 ### Requirements
 - Contract must be verified.
 - Active social presence and community enagement.
-- The liquidity pool must have at least $10,000 worth of total liquidity on its Equalizer Pairs.
+- The liquidity pool must have at least $10,000 worth of total liquidity on its Scale.farm Pairs.
 - Tokens applying for a whitelist must be paired against FTM/ETH/Stablecoins or our native tokens, EQUAL or SCALE.
 - Project applying must be 10 days old or more!
 - Requested asset must have more than 25 holders.
@@ -66,7 +65,7 @@ There are 2 types of whitelistings offered on Equalizer:
 ### Requirements
 - Contract must be verified.
 - Active social presence and community enagement.
-- The liquidity pool must have at least **$25,000** worth of total **liquidity on Equalizer**.
+- The liquidity pool must have at least **$25,000** worth of total **liquidity on Scale.farm**.
 - Tokens applying for a whitelist must be paired against FTM/ETH/Stablecoins or our native tokens, EQUAL or SCALE.
 - Project applying must be 1 Month old or more!
 - Requested asset must have more than 100 holders.
