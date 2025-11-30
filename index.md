@@ -25,3 +25,4 @@ Now, who really cares about a fee of 0.01% if the slippage in the trade is 2% or
 
 ## Where To Find Us
 - Twitter: [https://twitter.com/Scale_Farm](https://twitter.com/Scale_Farm)
+- Discord: https://discord.gg/PqggXcYtYS
