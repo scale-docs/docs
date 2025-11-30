@@ -1,6 +1,6 @@
 ---
 
-title: Listing Special Tokens on Equalizer
+title: Listing Special Tokens on Scale.farm
 nav_order: 7
 has_children:
 parent: List your Tokens
@@ -23,9 +23,9 @@ You can easily find it on the liquidity pool's ftmscan page on the 'Read Contrac
 Exempting the pair `Fees` address will not impact the transfer taxes taking place during trades or any other interactions with the liquidity pool. Your rebases or taxes will still work as expected. **This step only removes the taxes/rebases from the trade-fee portion, not the actual trade volume!**
 
 ## Gauges & Bribes
-Equalizer's Gauges & Bribes are the First DEX to natively support Exotic tokens. **Gauges & Bribes Dont require special exemptions.**
+Scale's Gauges & Bribes do support Exotic tokens. **Gauges & Bribes do not require special exemptions.**
 
-But make sure to exempt the pair `Fees` address from any transfer-tax, rebase (positive or negative), Reflection rewards or other special features. If you dont, you wont be able to enjoy all the features of Equalizer!
+But make sure to exempt the pair `Fees` address from any transfer-tax, rebase (positive or negative), Reflection rewards or other special features. If you dont, you wont be able to enjoy all the features of Scale.farm!
 
 ## Correcting previously generated fees
 In case you had not whitelisted the Fees address, it could have accrued a deficit of tokens. As in, if it ad expected 100 tokens and got only 99, it would think it has 100 but while transferring fees during fees claims, it would encounter an error and revert, since it has just 99 and not 100.
@@ -41,7 +41,7 @@ Solution to this is to simply sending it the remaining tokens.
 > **= 56 tokens**
 
 # Changes needed to your Token's Smart Contract Code
-Equalizer is not a UniswapV2 fork, and its routers and pairs are slightly different.
+Scale.farm is not a UniswapV2 fork, and its routers and pairs are slightly different.
 
 you would need to make these small adjustments to your contract if your Token involves deployment to a LP on the DEX during its Constructor() call
 
@@ -52,7 +52,7 @@ in here, we have one additional parameter called `stable` which you must include
 
 ## 2. swapExact<ETH/Token>For<Tokens/ETH>SupportingFeesOnTransferTokens
 in here, Uniswapv2 forks use the `address[] memory path`.
-in case of Equalizer, you should use `Route[] memory path`, where Route is a `Struct`:
+in case of Scale.farm, you should use `Route[] memory path`, where Route is a `Struct`:
 ```
 Struct Route {
   address from;
