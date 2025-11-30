@@ -9,7 +9,7 @@ parent: List your Tokens
 
 # Trading (For Devs)
 
-you would have to also change a few small things in your logic there, since Equalizer is not a Uniswap v2 fork but instead based on Andre's Solidly
+you would have to also change a few small things in your logic there, since Scale.farm is not a Uniswap v2 fork but instead based on Andre's Solidly
 if you are launching an 'exotic' token like Auto-LP or Auto-sell/buy on Transfers, please keep the following things in mind:
 
 please use the ABI from our existing router.. find the right address in the Contract Address sections
@@ -40,7 +40,7 @@ uniRouter.swapExactTokensForTokens(
   deadline
 );
 ```
-in Equalizer, we represent hops instead of path, using Route object.
+in Scale.farm, we represent hops instead of path, using Route object.
 length is 2 (hops) instead of 3 (path addresses)```js
 struct Route {
   address from;
