@@ -12,7 +12,7 @@ has_children:
 
 ## What To Expect
 
-This expansion is a strategic move that aims to generate new revenue opportunities for Equalizer.
+This expansion is a strategic move that aims to generate new revenue opportunities for Scale.farm.
 
 Our key goal is to build a sustainable future leveraging the power of L2 technology, building upon our current success and community.
 
@@ -25,12 +25,6 @@ The decision to expand to BASE Chain is not a random choice. The BASE Chain come
 * We see the potential for BASE to become the industry’s leading Layer 2 solution. We believe being part of this journey will provide immense opportunities for our users.
 
 * Utilizing the OP Technology Stack, Base Chain presents a unique advantage for our expansion. This technology stack has proven efficient and reliable, which aligns with our commitment to offer our community the best experiences in DeFi.
-
-## Distribution
-
-As a supporter of EQUAL, you will continue to enjoy the system on FTM. We also recognize the value you bring to our platform, and we intend to ensure that your support is well compensated with our dedication to continuing to support the current chain.
-
-At Equalizer, we firmly believe in acknowledging and rewarding the unwavering support of our community members. As we take this leap to Base Chain, our current veEQUAL token holders won’t be left behind. Instead, they will be rewarded for their continued support on FTM which will run in tandem with our new deployment.
 
 ## The Launch Liquidity Sequence
 
